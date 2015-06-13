@@ -10,7 +10,13 @@ They were 30 seconds away from being consumed by the largest computer software c
 
 # Light Speed
 
-The startup community in Aimesville was thriving. When Bill Farnsworth arrived and created "Light Speed", the world's first business accelerator, the city transformed from a quiet cow-town into a technology Mecca. Bill studied theoretical physics in Pasadena (He referred to the location instead of the name of the university, to avoid sounding pretentious) and had worked in venture capital from the age of 18, thanks to a deep network of wealthy family members in the industry and an inheritance from his grandfather. Since the dot-com bust, he hadn't hit any real home runs with his early stage portfolio companies. Bill had just returned from his 5th expedition of the season. He was a thrill seeker and the lack of 10x investment returns recently had lead him to pursue hobbies including but not limited to arctic exploration, brewing tequila, and filmmaking. [illustrate bill doing hobby - maybe have him conference call in from somewhere]
+The startup community in Aimesville was thriving. When Bill Farnsworth arrived and created "Light Speed", the world's first business accelerator, the city transformed from a quiet cow-town into a technology Mecca. Bill studied theoretical physics in Pasadena (He referred to the location instead of the name of the university, to avoid sounding pretentious) and had worked in venture capital from the age of 18, thanks to a deep network of wealthy family members in the industry and an inheritance from his grandfather. Since the dot-com bust, he hadn't hit any real home runs with his early stage portfolio companies. Bill had just returned from his 5th expedition of the season. He was a thrill seeker and the lack of 10x investment returns recently had lead him to pursue hobbies including but not limited to arctic exploration, brewing tequila, and filmmaking.
+
+[illustrate bill doing hobby - maybe have him conference call in from somewhere]
+
+# Josh & Sally
+
+[break into story illustrating relationship between Josh & Sally]
 
 Josh Martin had been formally trained in economics, but was also the president of his fraternity and captain of the lacrosse team at Denver State University. He thrived at the globally renown consulting firm Jenkins & Bartleby, leading a series of complicated restructuring transactions which resulted in record results for the company and its investors. Josh had the peculiar habit sitting back with his feet on the desk and making notes in his journal with a freshly sharpened number two pencil for the first hour of his morning every day. He somehow managed to drink coffee from a mug, carry on conversations with his employees, and continue with his routine journaling, without losing his balance in the chair.
 
@@ -22,7 +28,7 @@ They happened to be visiting Aimesville during their annual startup bash where c
 
 # The Dream Machine
 
-Lazuli Masterson was a prodigious cellist and had become a sensation in her community of Mccamish, Vermont by the age of four. In addition to music, she was a gifted artist and displayed advanced writing abilities. She began editing the Mccamish Bugle at the age of 13 and started a hedge fund with her earnings from the paper. Her own algorithm "Lazuli's latter" was the subject of her Master's thesis in semiotics which she completed at the age of 21. She had toyed with virtual reality headsets and wanted to create a seamless experience where people could enter a beautiful dreamlike state through the use of technology. Lazuli was visiting Aimesville in the Spring too, because she had read the same viral blog post.
+Lazuli Masterson was a prodigious cellist and had become a sensation in her community of Mccamish, Vermont by the age of four. In addition to music, she was a gifted artist and displayed advanced writing abilities. She began editing the Mccamish Bugle at the age of 13 and started a hedge fund with her earnings from the paper. Her own algorithm "Lazuli's latter" was the subject of her Master's thesis in semiotics which she completed at the age of 21. She had toyed with virtual reality headsets and wanted to create a seamless experience where people could enter a beautiful dreamlike state through the use of technology. Lazuli was visiting Aimesville in the spring too, because she had read the same viral blog post.
 
 Lazuli felt slightly more introverted than usual at these events. When she met Sally Greenfield, she was surprised that they had so much in common. Lazuli Masterson wasn't someone who wore a lot of makeup to get attention. She expressed pristine thoughts and built magnificent systems, which according to Sally Greenfield, was exactly what she and Josh Martin were doing with their startup. They needed talented engineers like her if they were going to change the world, she explained. Lazuli felt marginally more comfortable talking with Josh, and he was sincerely impressed with her ideas on artificial intelligence and virtual reality. When she revealed her idea for the dream machine, he was floored. The following morning his journal entry was focused on the economic reality of building a dream machine.
 
@@ -40,7 +46,7 @@ Before Bill could say a word, Sally burst into a an somewhat longwinded story ab
 
 His standing desk was mess. Pumpkin, his girlfriend's Cocker Spaniel, lounged below the crumb waterfall as Alan O'Reilly took another disinterested bite of his tempeh bowl and wrote a text message in his permanent smart phone slouch. After years of database administration, Alan had refined his already introverted disposition into a samurai sword of stored procedures and shell scripts. When his display lit up early in the morning with a phone call from an unfamiliar 809 area code, he instinctively blocked the call and continued writing his text message.
 
-Later in the afternoon, an email indicated to him that the phone call and subsequent voicemail had been from his old fraternity brother Josh "The Martian" Martin. Josh was offering him a position as an Engineering Manager and a significant amount of equity in his new tech startup. The lifestyle sounded incredible. Unlimited vacation, free beer at the office, and dogs were allowed! He would no longer have to work remotely from his dimly lit apartment. O'Reilly agreed to come aboard as the Engineering Manager, but he couldn't make it out there for another month and a half.
+Later in the afternoon, an email indicated to him that the phone call and subsequent voicemail had been from his old fraternity brother Josh "The Martian" Martin. Josh was offering him a position as an Engineering Manager and a significant amount of equity in his new tech startup. The lifestyle sounded incredible. Unlimited vacation, free beer at the office, and dogs were allowed! He would no longer have to work remotely from his dimly lit apartment in Hoboken. O'Reilly agreed to come aboard as the Engineering Manager, but he couldn't make it out there for another month and a half.
 
 # Acceleration
 
@@ -48,11 +54,24 @@ Demo day was rapidly approaching now, and the last 6 weeks of the accelerator pr
 
 The dream machine demo had been a raging success, and the company raised twice the original amount of funding in the following week, through connections provided by Farnsworth. They only had one paying client using the prototype, but now that O'Reilly was in town, they had hired several software developers to build out version 2 of the product. The team worked night and day throughout the summer, taking breaks for ping pong occasionally, and drinking copious amounts of beer. The big joke on the team was the company across the street. They had been around for 20 years, long before Light Speed, and their plain office lacked all of the amenities that were available at the dream machine office. Josh, Alan, and the engineering team got wasted one night and toilet papered the company across the street.
 
-# Features and Demos
+# The First Sprint
 
-Lazuli was surprised at the amount of toilet paper that littered the streets on the morning that she arrived in Aimesville. She was so excited about building her dream machine, that she had come straight into the bright blue office from the airport, without even seeing her new apartment. She rang the doorbell which had been reprogrammed to produce an elongated fart sound at the company's last hackathon. One of the engineers answered the door and showed her to her desk in the engineering room. The engineers resumed their conversation about the prototype, saying that Josh and Sally had no idea how bad it actually was. Apparently they needed to refactor code and add tests, but the founders are so focused on new features and demos, the engineers never have time to do things right.
+Lazuli was surprised at the amount of toilet paper that littered the streets on the morning that she arrived in Aimesville. She was so excited about building her dream machine, that she had come straight into the bright blue office from the airport, without even seeing her new apartment. She rang the doorbell which had been reprogrammed to produce an elongated fart sound at the company's last hackathon. One of the engineers answered the door and showed her to her desk in the engineering room. The engineers resumed their conversation about the prototype, saying that Josh and Sally had no idea how bad it actually was. Apparently they needed to refactor code and add tests, but the founders were so focused on new features and demos, the engineers never have time to do things right.
 
-That evening, Lazuli overheard an argument between the engineer who had been there the longest and Josh. The engineer said that Alan was useless as a manager and Sally was driving the team nuts with shifting priorities and impossible deadlines. He was completely burnt out by completing repetitive tasks and thinking about leaving the company. Josh had his feet up on his desk and was taking notes in his journal as the young engineer continued to vent. Josh didn't appreciate the slandering of his former fraternity brother, Alan, and thought that the kid was way out of line. Alan was oblivious to the conversation, standing at his desk in the engineering room, reading a text message.
+Lazuli had 20 issues assigned to her the minute she walked in the door. Each of the bugs or new features were poorly defined by Sally and they would include several attachments in an attempt to clarifty their meaning. Lazuli thought the issues ought to be vetted and broken down as a team, so that they could avoid wasting time going back and forth between Sally. O'Reilly said that this first sprint was going to last for two weeks, and then all of this was going to change, but they had to get something working as soon as possible.
+
+Bug #124 "Interface not working" - Sally G
+If I plug the dream machine into my laptop, the interface isn't working. I want to be able to see it charging and change the settings, but when I click the button to switch it into low energy mode, nothing happens. Also, the save button should be red, and it should display the message, "Your settings have been saved," when clicked.
+
+- See attachement A for a list of features regarding low energy mode
+- Attachment B contains a mockup of the interface
+- The attached spreadsheet C is a spreadsheet I've been using to track interface changes
+
+Attachment A was brain dump of every feature that had ever been imagined by Sally to be included as part of the interface for The Dream Machine. The mockup in attachment B didn't have enough details to be useful for Lazuli, and the spreadsheet was extremely confusing. She spent a good deal of time trying to guess at what Sally had in mind, and then once she had submitted her fix, the requirements would change even further.
+
+"I had a meeting with Josh," explained Sally, "and we just don't think that the energy modes are going to get us anywhere. We made some changes in the spreadsheet, so take a look, and let me know when you have something that is closer to what we need."
+
+That evening, Lazuli overheard an argument between the engineer who had been there the longest and Josh. The engineer said that Alan was useless as a manager and Sally was driving the team nuts with shifting priorities and impossible deadlines. He was completely burnt out by completing repetitive tasks and thinking about leaving the company. Josh had his feet up on his desk and was taking notes in his journal as the young engineer continued to vent. Josh didn't appreciate the slandering of his former fraternity brother, Alan, and thought that the kid was way out of line. Alan was oblivious to the conversation, standing at his desk in the engineering room, reading a blog.
 
 The engineer left that evening, slamming the door, and ringing the elongated fart doorbell three times on the way out. The rest of the team didn't feel any loyalty to Alan or Josh, so they decided not to come back the following day. Alan still hadn't personally introduced himself to Lazuli, but he did send her an email, assuring her that her job was safe. Lazuli slept under her desk that night because she had been inundated with bug fixes the second she arrived. She stayed up the entire night trying to figure out the system, but wasn't making much progress.
 
@@ -60,17 +79,38 @@ Lazuli thought about how Pumpkin must feel sitting under Alan's crumb waterfall 
 
 # Weird Feedback
 
-The following day Lazuli received another email from Alan that they were one month late on delivering version 2 of the dream machine, and company's biggest client was going to terminate their contract if it wasn't delivered by Friday. There was no time for code reviews or automated tests. Why was she writing a test for each of her bug fixes? He mentioned that her productivity metrics over the past couple of days had been sub par, and that Josh had said the feedback she gave on her first survey response seemed a little weird. She wasn't aware that the automated surveys she filled out were distributed to the management team, so she decided to be less honest in the surveys, and became much more fearful about her future there.
+The following day Lazuli received another email from Alan that they were one month late on delivering version 2 of the dream machine, and company's biggest client was going to terminate their contract if it wasn't delivered by Friday. There was no time for code reviews or testing. Why was she writing a test for each of her bug fixes? He mentioned that her productivity metrics over the past couple of days had been sub par, and that Josh had said the feedback she gave on her first survey response seemed a little weird. She wasn't aware that the automated surveys she filled out were distributed to the management team, so she decided to be less honest in the surveys, and became much more fearful about her future there. Alan gave her dirty looks in the kitchen and talked disrespectfully to her in the company chat room.
 
-Instead of wasting money on engineers who were just going to walk out the door, Josh and Sally decided to hire a young man by the name of Aaron Roberts to head up a client services group. Aaron had his own office on the other side of the building and wasn't allowed to interrupt the engineers with any questions about the prototype. Sally also hired a Director of Marketing to focus on new clients and a Product Manager to do something that Lazuli didn't understand. Both of the new hires were members of the Leadership Team along with Josh, Sally, and Alan.
+2:00 AM
+Lazuli: Hey Alan! Did you ask Sally about Bug #124? Trying to finish that up this afternoon, but not sure exactly what she wants.
+
+2:05 PM
+O'Reily: what aren't you sure about
+
+2:05 PM
+O'Reily: did you read it
+
+2:06 PM
+Lazuli: Of course! She mentioned that you guys wanted to move away from energy modes, so I was wondering what exactly the issue was about. You can see it charging through the interface, and the buttons work just fine. What else is there to do?
+
+2:05 PM
+O'Reily: please hold
+
+3:25 PM
+O'Reily: k what about bug #124? you are so unclear, i can't understand what you are complaining about sometimes.
+
+3:36 PM
+Lazuli: Nevermind.
+
+Instead of wasting money on engineers who were just going to walk out the door, Josh and Sally decided to hire a young man by the name of Aaron Roberts to head up a client services group. Aaron had his own office on the other side of the building and wasn't allowed to interrupt the engineers with any questions about the prototype. Lazuli found herself being interrupted mostly by Sally, and had never actually spoken directly with a client, so she didn't understand this at all. Sally also hired a Director of Marketing to focus on new clients and a Product Manager, but neither of them helped Lazuli very much. Both of the new hires were members of the Leadership Team along with Josh, Sally, and Alan.
+
+# Search for Food
 
 After working all day Wednesday and Thursday without going home to her apartment, Lazuli stumbled across the street in search of food. One of the engineers from the company across the street noticed her branded shirt and asked how she liked it over there. When she dodged the question and inquired about his job, he replied enthusiastically, inviting her to lunch with his team. She didn't have time for lunch with the Friday deadline looming in her mind, but she was too tired to come up with an excuse, and ate lunch with the company across the street.
 
 Their manager smiled and made eye contact with Lazuli when she met her. Her engineers explained that they were all happy and the best talent came to work there, just based on word of mouth. They only had a few clients and one product, but their customers were so pleased with their product, that they sent thank you notes and told all of their friends about it. Engineers were encouraged to fix bugs at their own discretion and take time to refactor code. The team pair programmed often and shared responsibility to avoid burning out and cultivate new skills. Developers worked directly with marketing and product team members and were even allowed to communicate with clients.
 
 Lazuli took a business card from the engineering manager from the company across the street and sauntered back to the office. She rang the doorbell, but it was 5 minutes before someone came and opened the door for her. Josh opened the door and walked silently back into a conference room where the Leadership Team was having a heated discussion. Sally could be heard clanking across the conference room in her heels.
-
-# A Sales Driven Organization
 
 "It isn't a problem anymore, Josh! Developers come and go, but the vision remains the same. We are a sales driven organization. Who gives a damn about the bugs in version 2. Version 3 is going to change all of that. We have Aaron now, so engineers won't have to deal with any interruptions from clients. We have a new Director of Marketing and a Product Manager. Tell the code school we can gaurantee 3 students full-time jobs this fall. We need one front-end, one back-end, and someone who does dev ops."
 
@@ -85,8 +125,6 @@ She worked in the engineering room with the lights off for the rest of the eveni
 It was Thursday evening now, and in spite of the branded couch, glasses, shirts, and hoodies, the company was on the brink of losing their only client and running out of money.
 
 # Negative Attitude
-
-/* Peak */
 
 Instead of sleeping under her desk in the engineering room that night, she stayed up and worked on a presentation which she went over with the Leadership Team the following day. It was a culmination of everything that she had learned independently and in school over the course of her life. Lazuli was very capable of solving all of their problems. She made pointed suggestions to Alan and Josh based on the teachings of Deming, Brooks, and other authors that she admired such as Hermann Hesse. It made allusions to mythology, incorporated a tasteful amount of neuroscience, and featured examples based on quantum physics, in case Farnsworth decided to attend. She messaged Alan the following morning when he became available online.
 
@@ -105,16 +143,19 @@ O'Reily: finishing up now why
 11:16 AM
 Lazuli: I just think there are some things we can do to be more productive and I want to get your feedback.
 
-2:15 AM
+2:15 PM
 O'Reily: let's talk this afternoon
 
-They didn't talk in the afternoon.
+They didn't talk in the afternoon. Apparently the Friday deadline wasn't real either, because weeks flew by, and the technical debt continued to pile up. 5-10 poorly defined issues were created and assigned to Lazuli's backlog every day without any kind of vetting process. Every two weeks, she would remind Alan that a new sprint had started. This meant that she would roll any unfinished work into the next sprint and choose a couple of new issues to widdle away at.
 
-//////// time passes?
+Instead of helping Lazuli become more productive, Alan had a terrible habit of contributing code which would cause crashes and break functionality that she had built. He seemed to be addicted to the thrill of "putting out fires" and had apparently made himself indespensible in various positions over the years by writing mountains of unmaintainable code. He didn't know what Lazuli was so eager to have a meeting with management about. She wasn't very experienced as a developer nor was she a part of the leadership team. He agreed to schedule something 3 weeks out, and changed the date 4 times, before she was able to meet with the leadership team.
 
-Lazuli was fired immediately after the presentation for having a negative attitude. The company's only customer renewed their contract that afternoon because the client services group lead by Aaron Roberts had assuaged their concerns about bugs in version 2. The Director of Marketing and Product Manager painted a picture of new features coming out next year that was just irresistible for the client. They didn't even want version 2 of the dream machine anymore, because version 3 sounded so extraordinary.
+# The Leadership Team
+Aaron arrived 5 minutes late after a call with clients wrapped up. The meowing sound coming from Sally's bag was muddled by the conversation that Josh and Alan were having. They had been going back and forth for weeks about which email system would be best for team. Lazuli would be integrating the system, but wasn't consulted for her input. She smiled and presented her slides to the team, who seemed to be shocked by what she considered to be relatively obvious suggestions. Alan was deeply offended when she suggested that someone need to refine their engineering process, because a lot of time was being wasted dealing with poorly defined issues and changing requirements. Sally had a quiet discussion with the Director of Marketing and the new Product Manager in the corner, ignoring her presentation entirely. She missed all of Lazuli's suggestions for new features that could have made the company millions.
 
-Lazuli went home to her new apartment for the first time and slept the entire weekend. She emailed the company across the street on Monday morning, and was offered a contract position for a couple of weeks, before they took her on full-time as a software developer. She ran into Alan in the street one day and he explained that Farnsworth had decided to double down his investment in the company. They were on a hiring spree again and had already brought on five new developers while gearing up for version 3.
+Lazuli was fired immediately after the presentation for having a negative attitude. The company's only customer renewed their contract that afternoon because Aaron and the client services group had assuaged their concerns about bugs in version 2. The Director of Marketing and Product Manager painted a picture of new features coming out next year that was just irresistible for the client. They didn't even want version 2 of the dream machine anymore, because version 3 sounded so extraordinary.
+
+Lazuli went home to her new apartment and slept the entire weekend. She emailed the company across the street on Monday morning, and was offered a contract position for a couple of weeks, before they took her on full-time as a software developer. She and every developer in town received a generic recruiting email from O'Reily one day shortly therafter. They were on a hiring spree again and had already brought on five new developers while gearing up for version 3 of The Dream Machine.
 
 # The Company Across the Street
 
