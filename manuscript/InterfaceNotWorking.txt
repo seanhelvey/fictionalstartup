@@ -4,7 +4,7 @@ Lazuli was surprised at the amount of toilet paper that littered the streets on 
 
 Lazuli had 20 issues assigned to her the second she entered the engineering room. Each of the bugs or new features were poorly defined by Sally and they would include several attachments in an attempt to clarifty their meaning. Lazuli thought the issues ought to be vetted and broken down as a team, so that they could avoid wasting time going back and forth between Sally. Alan said that this first sprint was going to last for two weeks, and then all of this was going to change, but they had to get something working as soon as possible.
 
-Bug #124 "Interface not working" - Sally G
+Bug #124 "Interface not working" - Sally G  
 If I plug the Dream Machine into my laptop, the interface isn't working. I want to be able to see it charging and change the settings, but when I click the button to switch it into low energy mode, nothing happens. Also, the save button should be red, and it should display the message, "Your settings have been saved," when clicked.
 
 - See attachement A for a list of features regarding low energy mode
