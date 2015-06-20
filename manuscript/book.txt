@@ -1,6 +1,7 @@
-Intro.txt
+Runway.txt
 LightSpeed.txt
-TheStartupBash.txt
+TheFounders.txt
+StartupBash.txt
 Adventure.txt
 CrumbWaterfall.txt
 Acceleration.txt
