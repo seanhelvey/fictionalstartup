@@ -8,7 +8,6 @@ TheFirstSprint.txt
 WeirdFeedback.txt
 SearchForFood.txt
 MoreLarrys.txt
-TheLeadershipTeam.txt
-LazuliFired.txt
+TheLeadershipMeeting.txt
 TheCompanyAcrossTheStreet.txt
 NewDoorbell.txt
