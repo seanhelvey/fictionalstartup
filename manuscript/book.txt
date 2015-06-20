@@ -2,7 +2,8 @@ Intro.txt
 LightSpeed.txt
 TheStartupBash.txt
 Adventure.txt
-Oreily.txt
+CrumbWaterfall.txt
+Acceleration.txt
 TheFirstSprint.txt
 WeirdFeedback.txt
 SearchForFood.txt
