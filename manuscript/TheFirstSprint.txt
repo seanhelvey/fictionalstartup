@@ -1,0 +1,22 @@
+# The First Sprint
+
+Lazuli was surprised at the amount of toilet paper that littered the streets on the morning that she arrived in Aimesville. She was so excited about building the dream machine, that she had come straight into the bright blue office from the airport, without even seeing her new apartment. She rang the doorbell which had been reprogrammed to produce an elongated fart sound at the company's last hackathon. One of the engineers answered the door and showed her to her desk in the engineering room. The engineers resumed their conversation about the prototype, saying that Josh and Sally had no idea how bad it actually was. Apparently they needed to refactor code and add tests, but the founders were so focused on new features and demos, the engineers never had time to do things right.
+
+Lazuli had 20 issues assigned to her the minute she walked in the door. Each of the bugs or new features were poorly defined by Sally and they would include several attachments in an attempt to clarifty their meaning. Lazuli thought the issues ought to be vetted and broken down as a team, so that they could avoid wasting time going back and forth between Sally. O'Reilly said that this first sprint was going to last for two weeks, and then all of this was going to change, but they had to get something working as soon as possible.
+
+Bug #124 "Interface not working" - Sally G
+If I plug the dream machine into my laptop, the interface isn't working. I want to be able to see it charging and change the settings, but when I click the button to switch it into low energy mode, nothing happens. Also, the save button should be red, and it should display the message, "Your settings have been saved," when clicked.
+
+- See attachement A for a list of features regarding low energy mode
+- Attachment B contains a mockup of the interface
+- The attached spreadsheet C is a document I've been using to track interface changes
+
+Attachment A was brain dump of every feature that had ever been imagined by Sally to be included as part of the interface for The Dream Machine. The mockup in attachment B didn't have enough details to be useful for Lazuli, and the spreadsheet was extremely confusing. She spent a good deal of time trying to guess at what Sally had in mind, and then once she had submitted her fix, the requirements would snowball even further. It was like cutting the head off a hydra.
+
+"I had a meeting with Josh," explained Sally, "and we just don't think that the energy modes are going to get us anywhere. We made some changes in the spreadsheet, so take a look, and let me know when you have something that is closer to what we need."
+
+That evening, Lazuli overheard an argument between the engineer who had been there the longest and Josh. The engineer said that Alan was useless as a manager and Sally was driving the team nuts with shifting priorities and impossible deadlines. He was completely burnt out by completing repetitive tasks and thinking about leaving the company. Josh had his feet up on his desk and was taking notes in his journal as the young engineer continued to vent. Josh didn't appreciate the slandering of his former fraternity brother, Alan, and thought that the kid was way out of line. Alan was oblivious to the conversation, standing at his desk in the engineering room, reading a blog.
+
+The engineer left that evening, slamming the door, and ringing the elongated fart doorbell three times on the way out. The rest of the team didn't feel any loyalty to Alan or Josh, so they decided not to come back the following day. Alan still hadn't personally introduced himself to Lazuli, but he did send her an email, assuring her that her job was safe. Lazuli slept under her desk that night because she had been inundated with bug fixes the second she arrived. She stayed up the entire night trying to figure out the system, but wasn't making much progress.
+
+Lazuli thought about how Pumpkin must feel sitting under Alan's crumb waterfall as she layed on the carpet that night. Her cheek burned slightly from its rough texture, so she rolled up a hoodie for a pillow, and used another one as a blanket. There was pressure against her hip and shoulder when she was on her side, but she couldn't sleep on her back either. It was quiet in the office. She dreamt about one difficult bug that she couldn't fix that day. In her dream, the answer was obvious, but her clunky arms and numb hands wouldn't allow her to solve it.

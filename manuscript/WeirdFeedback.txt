@@ -1,0 +1,26 @@
+# Weird Feedback
+
+The following day Lazuli received another email from Alan that they were one month late on delivering version 2 of the dream machine, and company's biggest client was going to terminate their contract if it wasn't delivered by Friday. There was no time for code reviews or testing. Why was she writing a test for each of her bug fixes? He mentioned that her productivity metrics over the past couple of days had been sub par, and that Josh had said the feedback she gave on her first survey response seemed a little weird. She wasn't aware that the automated surveys she filled out were distributed to the management team, so she decided to be less honest in the surveys, and became much more fearful about her future there. Alan was easily frustrated with her and talked disrespectfully to her in the company chat room.
+
+2:00 AM
+Lazuli: Hey Alan! Did you ask Sally about Bug #124? Trying to finish that up this afternoon, but not sure exactly what she wants.
+
+2:05 PM
+O'Reily: what aren't you sure about
+
+2:05 PM
+O'Reily: did you read it
+
+2:06 PM
+Lazuli: Of course! She mentioned that you guys wanted to move away from energy modes, so I was wondering what exactly the issue was about. You can see it charging through the interface, and the buttons work just fine. What else is there to do?
+
+2:05 PM
+O'Reily: please hold
+
+3:25 PM
+O'Reily: k what about bug #124? you are so unclear, i can't undersatnd what you are complaining about sometimes.
+
+3:36 PM
+Lazuli: Nevermind.
+
+Instead of wasting money on engineers who were just going to walk out the door, Josh and Sally decided to hire a young man by the name of Aaron Roberts to head up a client services group. Aaron had his own office on the other side of the building and wasn't allowed to interrupt the engineers with any questions about the prototype. Lazuli found herself being interrupted mostly by Sally, and had never actually spoken directly with a client, so she didn't understand this at all. Sally also hired a Director of Marketing to focus on new clients and a Product Manager, but neither of them helped Lazuli very much. Both of the new hires were members of the Leadership Team along with Josh, Sally, and Alan.

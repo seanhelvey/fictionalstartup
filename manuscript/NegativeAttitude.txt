@@ -1,0 +1,29 @@
+# Negative Attitude
+
+Instead of sleeping under her desk in the engineering room that night, she stayed up and worked on a presentation which she went over with the Leadership Team the following day. It was a culmination of everything that she had learned independently and in school over the course of her life. Lazuli was very capable of solving all of their problems. She made pointed suggestions to Alan and Josh based on the teachings of Deming, Brooks, and other authors that she admired such as Hermann Hesse. It made allusions to mythology, incorporated a tasteful amount of neuroscience, and featured examples based on quantum physics, in case Farnsworth decided to attend. She messaged Alan the following morning when he became available online.
+
+7:30 AM
+Lazuli: Hey Alan! Are you getting together with The Leadership Team today? If so, what time?
+
+8:57 AM
+O'Reily: yeah right now what's up
+
+8:58 AM
+Lazuli: I'd like to share some thoughts with you. Is it ok for me to come?
+
+11:15 AM
+O'Reily: finishing up now why
+
+11:16 AM
+Lazuli: I just think there are some things we can do to be more productive and I want to get your feedback.
+
+2:15 PM
+O'Reily: let's talk this afternoon
+
+They didn't talk in the afternoon. Apparently the Friday deadline wasn't real either, because weeks flew by, and the technical debt continued to pile up. 5-10 poorly defined issues were created and assigned to Lazuli's backlog every day without any kind of vetting process. Every two weeks, she would remind Alan that a new sprint had started. This meant that she would roll any unfinished work into the next sprint and choose a couple of new issues to widdle away at. No retrospectives, no feedback, no improvement.
+
+Instead of helping Lazuli become more productive, Alan had a terrible habit of contributing code which would cause crashes and break functionality that she had built. He seemed to be addicted to the thrill of "putting out fires" and had apparently made himself indespensible in various positions over the years by writing mountains of unmaintainable software. He didn't know what Lazuli was so eager to have a meeting with management about. She wasn't very experienced as a developer nor was she a part of the leadership team. He agreed to schedule something 3 weeks out, and changed the date 4 times, before she was able to meet with the leadership team.
+
+During that period of time, one additional engineer came aboard. Larry Applebee was a talented developer who always had a good attitude. He never expressed any discontent with Alan like Lazuli did, and Sally just loved his cheerful countenance. They told the recruiter who had put them in touch, "We need more Larrys!" Privately, however, Larry would confide in Lazuli. It was comforting to her, but she always had to be the one to raise the issue with Alan, and it made her look bad.
+
+"When I first spoke with Alan," Larry confessed, "I was under the impression that we were going to be doing more testing. In the past, I've always had a project manager or a scrum master to lean on when issues weren't well defined too. He or she would work with a product owner and make sure that the task at hand was very clear. Alan keeps saying that it will change, but it doesn't."
