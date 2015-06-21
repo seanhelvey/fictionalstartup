@@ -1,20 +1,15 @@
--# Phase One
-# Runway.txt
-# LightSpeed.txt
-# TheFounders.txt
-# StartupBash.txt
-# LeavesAndDirt.txt
-# Adventure.txt
-# CrumbWaterfall.txt
-# Acceleration.txt
-
--# Phase Two
-# InterfaceNotWorking.txt
-# WeirdFeedback.txt
-# ASalesDrivenOrganization.txt
-# MoreLarrys.txt
-# TheLeadershipMeeting.txt
-
--# Phase Three
-# TheCompanyAcrossTheStreet.txt
-# NewDoorbell.txt
+Runway.txt
+LightSpeed.txt
+TheFounders.txt
+StartupBash.txt
+LeavesAndDirt.txt
+Adventure.txt
+CrumbWaterfall.txt
+Acceleration.txt
+InterfaceNotWorking.txt
+WeirdFeedback.txt
+ASalesDrivenOrganization.txt
+MoreLarrys.txt
+TheLeadershipMeeting.txt
+TheCompanyAcrossTheStreet.txt
+NewDoorbell.txt

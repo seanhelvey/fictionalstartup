@@ -1,3 +1,4 @@
+-# Phase 2
 # Interface Not Working
 
 Lazuli was surprised at the amount of toilet paper that littered the streets on the Monday morning that she arrived in Aimesville. She was so excited about building the Dream Machine, that she had come straight into the bright blue office from the airport, without even seeing her new apartment. She rang the doorbell which had been reprogrammed to produce an elongated fart sound at the company's last hackathon. After 30 seconds, one of the engineers answered the door and showed her to her desk in the engineering room. The engineers resumed their conversation about the prototype, saying that Josh and Sally had no idea how bad it actually was. Apparently they needed to refactor code and add tests, but the founders were so focused on new features and demos, the engineers never had time to do things right.
