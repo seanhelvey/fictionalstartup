@@ -1,4 +1,5 @@
 -# Phase 3
+
 # The Company Across the Street
 
 Lazuli stayed at the company across the street for years and eventually became the lead developer. They loved her honest feedback more than anything. She approached her work there with the same fervor that she had exhibited learning to play the cello as a child, editing the newspaper in her teens, creating her non-profit, and mastering semiotics in grad school. Leading the team was a new experience for her though. She strived to be a servant leader, proactively guiding and helping her teammates. Lazuli kept her team small and empowered each of them to make decisions about whether we needed refactoring, more tests, bug fixes, or new features. The engineers worked in unison with other departments.

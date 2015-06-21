@@ -1,4 +1,5 @@
 -# Phase 1
+
 # Light Speed
 
 The startup community in Aimesville was thriving. When Bill Farnsworth created "Light Speed", the world's first business accelerator, the city transformed from a quiet cow-town into a technology Mecca. Bill studied theoretical physics in Pasadena (He referred to the location instead of the name of the university, to avoid sounding pretentious) and had worked in venture capital from the age of 18, thanks to a deep network of wealthy family members in the industry and an inheritance from his grandfather. Since the dot-com bust, he hadn't hit any real home runs with his early stage portfolio companies. Bill was in the middle of his 5th expedition of the season. He was a thrill seeker and the lack of 10x investment returns recently had lead him to pursue hobbies including but not limited to arctic exploration, brewing tequila, and filmmaking. The chopper blades wooshed so loudly through the speakers in the conference room, that Josh Martin and Sally Greenfield could barely hear Farnsworth talking over them.
