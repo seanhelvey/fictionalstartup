@@ -12,4 +12,3 @@ ASalesDrivenOrganization.txt
 MoreLarrys.txt
 TheLeadershipMeeting.txt
 TheCompanyAcrossTheStreet.txt
-NewDoorbell.txt
