@@ -17,3 +17,5 @@ Regrets.txt
 BackOnTheHorse.txt
 Charles.txt
 RobertsonElectronics.txt
+TheCrisis.txt
+HerFirstWeek.txt
