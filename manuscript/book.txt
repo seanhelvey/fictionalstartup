@@ -14,3 +14,6 @@ TheLeadershipMeeting.txt
 AimlessInAimesville.txt
 CrazySquirrels.txt
 Regrets.txt
+BackOnTheHorse.txt
+Charles.txt
+RobertsonElectronics.txt
