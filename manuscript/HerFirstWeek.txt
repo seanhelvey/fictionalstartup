@@ -1,2 +1,9 @@
 # Her First Week
 
+Lazuli found that working at Roberton was very natural to her. There was a nice rhythm that allowed her to focus on software development, instead of being stressed out about interpersonal dynamics within the company. While she was able to focus to a certain extent, she felt like she was included in decision making at the business level as well. Heather Robertson didn't hire smart people to tell them what to do. She solicited feedback aggressively and empowered her people to succeed.
+
+She felt pride in the work that she was doing there. It was easier to understand requirements than it had been at Dream Machine, because they didn't just come down the pipe. She worked together with the entire team to define issues and the scope of sprints. Everything seemed to be going well, but Lazuli just couldn't understand why they hadn't used any integration tests in their deployment process. She was afraid to mention this to the team, so she let it go for several weeks, before broaching the subject at one of their retrospectives.
+
+Without any hesitation, the team jumped into a debate about the merits of integration tests. This wasn't the first time the idea had been proposed. It was difficult to integration test a traffic signal, though, because there isn't a traditional user interface. They had discussed possibly creating a traffic signal simulator which could be used together with integration tests, and decided that it was worth pursuing.
+
+The team decided to take Friday and work on the simulator idea. By lunch time they had a working peice of software and had already started to fold in a popular integration test suite, so that the entire package could be used together. At the end of the day, their deployment process included their new traffic simulator and the integration test suite, which they discovered, would open up an entirely new vertical of potential users for their software.
