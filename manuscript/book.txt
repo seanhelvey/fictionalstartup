@@ -10,6 +10,7 @@ InterfaceNotWorking.txt
 WeirdFeedback.txt
 ASalesDrivenOrganization.txt
 MoreLarrys.txt
+DailyRitual.txt
 TheLeadershipMeeting.txt
 AimlessInAimesville.txt
 Regrets.txt

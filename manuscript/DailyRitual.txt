@@ -1,0 +1,15 @@
+# Daily Ritual
+
+"Good morning, guys! It is a beautiful day, right? Every one of you are amazing. I love this team."
+
+"Oh Larry", said Sally, "We love having you."
+
+What was Sally doing in their scrum meeting, anyway? Lazuli had wondered about their daily scrum and whether it was increasing the productivity of the team in any way. Josh was also in the meeting, along with the rest of the leadership team. "I am going to continue on Bug #124 today and will hopefully have a chance to work together with Alan and clear up some of the requirements there. That is my only road block."
+
+"Road block?" said Alan "What is it that you find so difficult about #124?" He rolled his eyes and exchanged a look of dissapointment with Sally. "I am extremely busy refactoring my database backup script this week, so I probably won't have time to get together with you today."
+
+"Ok that's fine."
+
+"Guys, when are we having a Dream Machine party?" said Larry. "I love scrum, because it gives me a chance to see your faces, and plan the next Dream Machine party, which is going to be awesome."
+
+"Haha, Larry.." said Josh, "Have we mentioned that we like you?"
